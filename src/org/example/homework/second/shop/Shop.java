@@ -2,7 +2,6 @@ package org.example.homework.second.shop;
 
 public class Shop {
     Worker[] workers;
-    int indexesOfAvailableWorkers = 0;
 
     Shop(Worker[] workers) {
         this.workers = new Worker[workers.length];

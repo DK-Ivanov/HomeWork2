@@ -1,5 +1,7 @@
 package org.example.homework.second;
 
+import org.example.homework.second.shop.Runner;
+
 import java.util.Random;
 
 public class Homework2 {
@@ -12,6 +14,7 @@ public class Homework2 {
         System.out.println("__________________________");
         System.out.println("Exercise 3:");
         ex3();
+
 
     }
 
@@ -101,7 +104,6 @@ public class Homework2 {
         //Создать магазин с работниками выше.
         //Вызвать у магазина печать.
         //Вызвать у каждого работника магазина хвастовство его вещами (достать работника из магазина).
-
     }
 
     public static void ex5() {
@@ -122,5 +124,6 @@ public class Homework2 {
         //Секретаря.
         //Создать офис
         //Запустить рабочий день в офисе
+
     }
 }
